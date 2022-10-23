@@ -1,0 +1,35 @@
+header{
+    background-color: #8b6b12;
+    position:fixed;
+    width:100%; 
+    z-index:1;
+}
+.name{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.section_title{
+    background-color: #BF9742;
+}
+.logo{
+    color: #A47E3B;
+}
+.footer{
+    background-color: #61481C;
+}
+.designed{
+    color: rgb(134, 134, 128);
+}
+.card-text2{
+    text-decoration: none;
+    color: black;
+}
+.card-text2:hover{
+    font-size: large;
+    font-weight: bolder;
+    color: #562B08;
+}
+.social-icon:hover{
+    background-color: #000000;
+    border-radius: 50%;
+}
